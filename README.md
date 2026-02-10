@@ -5,4 +5,4 @@ This game was created all by Dhritam Kalita
 *All images used in the game were generated using generatve AI*
 *All music and sfx were taken from pixabay.com*
 
-_sorry forno comments in the code, iwill be putting it soon_
+_sorry for no comments in the code, iwill be putting it soon_
